@@ -1,0 +1,21 @@
+{
+  "undefined": {
+    "title": "sheets.undefined.title",
+    "subtitle": "sheets.undefined.subtitle"
+  },
+  "Login": {
+    "title": "Login"
+  },
+  "Register": {
+    "title": "Register"
+  },
+  "locationFilter": {
+    "title": "Select location",
+    "cities": "Cities",
+    "districts": "Districts",
+    "submit": "Select",
+    "or": "or",
+    "mapView": "Map View",
+    "currentLocation": "Get Current Location"
+  }
+}

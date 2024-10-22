@@ -1,0 +1,114 @@
+{
+  "breadCrumb": {
+    "home": "Home"
+  },
+  "Header": {
+    "doctor_link": "Are you a dentist?"
+  },
+  "right_menu": {
+    "welcome": "Welcome",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register",
+    "currency": "Currency",
+    "language": "Language",
+    "info": "Help",
+    "search_placeholder": "Search for clinics, doctors, treatments...",
+    "search_placeholder_result": "No results were found for your search term.",
+    "clinicRegisterRight": "Are you a dentist?",
+    "contact": "Contact",
+    "distedavimAs": "diştedavim Inc.",
+    "distedavimAsReserved": "All rights reserved",
+    "kk1": "Terms of Use",
+    "kk2": "GDPR Text",
+    "kk3": "Policy",
+    "termscom2": "All Comments"
+  },
+  "bottom_menu": {
+    "home": "Home",
+    "favorite": "Favorite",
+    "appointment": "Appointment",
+    "help": "Help",
+    "profile": "Profile"
+  },
+  "help_page2": {
+    "faq2": "FAQ",
+    "wp_sup": "Whatsapp Support",
+    "call_center": "Call Center"
+  },
+  "clinicPage": {
+    "branch": "Branch",
+    "location": "Location",
+    "treatment": "Treatment",
+    "choose_dentist": "Choose Dentist",
+    "select_treatment": "Choose Treatment",
+    "get_appointment": "Get a Free Appointment",
+    "add_favorite": "Add Favorite",
+    "share": "Share",
+    "review": "reviews",
+    "comments": "Patient Reviews",
+    "more": "See All Reviews",
+    "verifyDistedavim": "Payment made via Distedavim.",
+    "payDistedavim": "Verified Review",
+    "see_all": "See All",
+    "payment_methods": "Payment Methods",
+    "payment_methods_12": "Installments up to 12 months with Dıştedavim",
+    "payment_methods_3": "3 months interest-free installment for all credit cards",
+    "payment_methods_cash": "Payment with cash",
+    "clinic_reg1": "Clinic Register",
+    "clinic_reg2": "Join distedavim family!",
+    "clinic_reg_input1": "Company Name",
+    "clinic_reg_input2": "City",
+    "clinic_reg_input3": "District",
+    "clinic_reg_input4": "Authorized Person",
+    "clinic_reg_input5": "E-mail",
+    "clinic_reg_input6": "Country",
+    "clinic_reg_input7": "Phone Number",
+    "clinic_reg_button": "Register",
+    "clinic_reg1_title": "Clinic Registration",
+    "clinic_reg2_title": "Clinic Login",
+    "Labels": {
+      "select_city": "Choose city and district",
+      "select_treatment": "Choose treatment"
+    },
+    "Submit": "Find Clinics"
+  },
+  "treatmentPage": {
+    "average_price": "Average Treatment Fee"
+  },
+  "footer": {
+    "policy": "Policy",
+    "call_center": "Call Center",
+    "whatsapp": "WhatsApp",
+    "links": {
+      "policy": "Policy",
+      "title_1": "Diştedavim",
+      "title_2": "Corporate",
+      "gizlilik": "Privacy Policy",
+      "iletisim": "Contact",
+      "kosullar": "Terms of Use",
+      "klinikler": "Clinics",
+      "dishekimleri": "Dentists",
+      "acildis": "Emergency Dental Clinics",
+      "enyakin": "Nearest Dental Clinics",
+      "hakkimizda": "About us",
+      "blog": "Blogs",
+      "cerez": "Cookie Policy",
+      "sss": "FAQ",
+      "tedaviler": "Treatments",
+      "onlinegorusme": "Online Meeting",
+      "kliniktegorusme": "Meeting at the Clinic",
+      "disbeyazlatma": "Teeth Whitening",
+      "displaktemizlik": "Dental Plaque Cleaning",
+      "kanaltedavisi": "Canal Treatment",
+      "disklinikleri": "Dental Clinics",
+      "istanbuldis": "Istanbul Dental Clinics",
+      "ankaradis": "Ankara Dental Clinics",
+      "izmirdis": "Izmir Dental Clinics",
+      "bursadis": "Bursa Dental Clinics",
+      "antalyadis": "Antalya Dental Clinics"
+    },
+    "usbs_title": "distedavim, Sağlık"
+  }
+}

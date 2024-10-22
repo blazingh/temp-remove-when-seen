@@ -1,0 +1,103 @@
+{
+  "home": {
+    "search_section": {
+      "title": "En uygun diş kliniğini bul",
+      "desc": "Yüzlerce onaylı klinik ve diş hekimi arasından sana en uygun olandan randevu al!"
+    },
+    "initial_section": {
+      "title": "En uygun diş kliniğini bul,",
+      "descup": "Klinik ve hekimleri incele, muayene ol,",
+      "descin": "tedavini 12 aya kadar taksitlendir",
+      "dentist": "Diş hekimi",
+      "transaction": "Onaylı İşlem"
+    },
+    "emergency_button": "Acil Klinikler",
+    "view_all_button": "Tümünü Gör",
+    "reviews_section": {
+      "title": "Ne dediler?",
+      "all": "Tüm Yorumlar"
+    },
+    "button_group": {
+      "clinics": "Klinikler",
+      "doctors": "Hastaneler",
+      "treatments": "Tedaviler",
+      "kids_clinics": "Çocuk Klinikleri",
+      "emergency_clinics": "Acil Klinikler"
+    },
+    "home_header_image": "/public/tr.png",
+    "take_appointments": "Ücretsiz Randevu Al",
+    "closest_clinic": "En Yakın Açık Klinikler",
+    "smile_guide": "Gülüş Rehberi",
+    "blogs": "Bloglar",
+    "all_clinics": "Tüm Klinikler",
+    "all_kids_clinics": "Tüm Çocuk Klinikleri",
+    "child_clinics": {
+      "title": "Çocuk Diş Klinikleri",
+      "text_upper": "Pedodonti uzmanı klinikleri gör, ",
+      "text": " hemen ücretsiz randevu oluştur.",
+      "button_text": "En Yakın Çocuk Klinikleri"
+    },
+    "emergency_clinics": {
+      "title": "Acil Diş Klinikleri",
+      "text_upper": "7/24 açık diş kliniklerini gör, ",
+      "text": " hemen ücretsiz randevu oluştur.",
+      "button_text": "En Yakın Açık Klinikler"
+    },
+    "benefits_section": {
+      "title": "Kliniğini Ekle",
+      "title2": "Neden distedavim.com?",
+      "benefits_list": {
+        "benefit_1": "Yurtiçi ve yurtdışından milyonlarca yeni hastaya ulaş.",
+        "benefit_2": "Hastalarına tüm banka kartlarına vade farksız taksit seçeneği sun.",
+        "benefit_3": "Tedavi kabul oranlarını arttır.",
+        "benefit_4": "Yüzlerce Klinik Tek Platformda",
+        "benefit_5": "7/24 Kolay Randevu Alma",
+        "benefit_6": "Ücretsiz İlk Muayene",
+        "benefit_7": "12 Aya Kadar Taksit İmkanı"
+      },
+      "join_button": "Hemen Üye Klinik Ol"
+    },
+    "six_step_smile": {
+      "title": "Adımda Özgürce Gülümse",
+      "guide_0": "Şehrini ve İhtiyacını Seç",
+      "guide_1": "Klinikleri incele",
+      "guide_2": "Randevunu Al",
+      "guide_3": "Ücretsiz Görüş",
+      "guide_4": "Tedavine Başla",
+      "guide_5": "12 Aya Kadar Taksitlendir"
+    }
+  },
+  "dentist": {
+    "about_doctor": "Diş Hekimi Hakında"
+  },
+  "Profile": {
+    "appointments": "Randevularım",
+    "favourites": "Favoriler",
+    "reviews": "Yorumlarım",
+    "questions": "Soru ve Cevaplarım",
+    "about": "Kişisel Bilgilerim",
+    "files": "Dosyalarım",
+    "notes": "Notlarım",
+    "logout": "Çıkış Yap"
+  },
+  "Profile_appointments": {
+    "future_appointments": "Gelecek Randevularım",
+    "past_appointments": "Geçmiş Randevularım"
+  },
+  "Profile_favourites": {
+    "clinics": "Klinikler",
+    "doctors": "Hastaneler",
+    "treatments": "Tedaviler"
+  },
+  "Profile_edits": {
+    "ad": "Ad",
+    "soyad": "Soyad",
+    "telefon": "Telefon No",
+    "email": "E-Posta",
+    "iden": "Kimlik Numarası",
+    "dogumgunu": "Doğum Günü"
+  },
+  "Profile_reviews": {},
+  "Profile_questions": {},
+  "Profile_about": {}
+}

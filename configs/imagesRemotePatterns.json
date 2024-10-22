@@ -1,0 +1,68 @@
+[
+  {
+    "protocol": "https",
+    "hostname": "distedavim-strapi-bucket.s3.us-east-1.amazonaws.com",
+    "port": "",
+    "pathname": "/**"
+  },
+  {
+    "protocol": "https",
+    "hostname": "images.unsplash.com",
+    "port": "",
+    "pathname": "/**"
+  },
+  {
+    "protocol": "https",
+    "hostname": "s3-eu-west-1.amazonaws.com",
+    "port": "",
+    "pathname": "/**"
+  },
+  {
+    "protocol": "https",
+    "hostname": "distedavim-user-uploaded-images.s3.amazonaws.com",
+    "port": "",
+    "pathname": "/**"
+  },
+  {
+    "protocol": "http",
+    "hostname": "distedavim-user-uploaded-images.s3.amazonaws.com",
+    "port": "",
+    "pathname": "/**"
+  },
+  {
+    "protocol": "https",
+    "hostname": "images.distedavim.com",
+    "port": "",
+    "pathname": "/**"
+  },
+  {
+    "protocol": "http",
+    "hostname": "images.distedavim.com",
+    "port": "",
+    "pathname": "/**"
+  },
+  {
+    "protocol": "https",
+    "hostname": "images.distedavim.com",
+    "port": "",
+    "pathname": "/**"
+  },
+  {
+    "protocol": "https",
+    "hostname": "img.distedavim.com",
+    "port": "",
+    "pathname": "/**"
+  },
+  {
+    "protocol": "https",
+    "hostname": "dtsanalpos-website-images.s3.amazonaws.com",
+    "port": "",
+    "pathname": "/**"
+  },
+  {
+    "protocol": "https",
+    "hostname": "distedavim-image-cdn.s3.amazonaws.com",
+    "port": "",
+    "pathname": "/**"
+  }
+]

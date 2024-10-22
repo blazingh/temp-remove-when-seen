@@ -1,0 +1,90 @@
+{
+  "Success": {
+    "sms_sent": "SMS sent",
+    "loged_in": "Logged in",
+    "registered": "Registered"
+  },
+  "Errors": {
+    "invalid_phone_number": "Invalid phone number",
+    "invalid_phone_code": "Invalid phone coder",
+    "invalid_email": "Invalid email",
+    "invalid_appointment": "Invalid appointment",
+    "failed_to_send_message": "Failed to send message",
+    "invalid_name": "Lütfen geçerli bir isim gir!",
+    "invalid_surname": "Lütfen geçerli bir soyad gir!",
+    "invalid_code": "Invalid code",
+    "failed_to_login": "Failed to login",
+    "invalid_name_surname": "Invalid name or surname",
+    "failed_to_register": "Failed to register",
+    "invalid_password": "Invalid password",
+    "must_accept_terms": "Must be accepted",
+    "accept_terms": "Must be accepted",
+    "district_id": "Invalid district id",
+    "city_id": "Invalid city",
+    "authorized_name": "Invalid authorized_name ",
+    "submerchant_name": "invalid_submerchant_name",
+    "invalid_identity_number": "Invalid identity number",
+    "invalid_birth_date": "Invalid birth date",
+    "invalid_gender": "Invalid gender",
+    "invalid_verification_code": "Geçersiz onay kodu! Lütfen tekrar deneyin",
+    "otp_expired": "OTP süresi doldu! Lütfen yeni bir OTP isteyin.",
+    "invalid_captcha_token": "Invalid captcha token",
+    "invalid_captcha_must": "Invalid captcha must be checked"
+  },
+  "List_page": {
+    "filter": "Filter",
+    "show_maps": "Show on the map"
+  },
+  "QandA": {
+    "q_and_a_description": "We have listed frequently asked questions about dental clinics for you",
+    "q_and_a_title": "Frequently Asked Questions",
+    "clinics_q1": {
+      "question": "How should I choose a clinic?",
+      "answer": "Your clinic selections may vary based on expertise, location, pricing, and references."
+    },
+    "clinics_q2": {
+      "question": "How should I choose a dentist?",
+      "answer": "The specialties of the clinic to which the dentist is affiliated are listed. If you are not familiar with the treatment, you can make changes after visiting the clinic."
+    },
+    "clinics_q3": {
+      "question": "Are the dental clinics listed on Diştedavim reliable?",
+      "answer": "All the clinics you will make an appointment with are clinics approved by Diştedavim. Therefore, you can make your appointment with peace of mind."
+    },
+    "clinics_q4": {
+      "question": "Can I cancel after making an appointment?",
+      "answer": "Yes, you can cancel your appointment at any time. For this, you can follow the steps Profile and My Appointments."
+    },
+    "clinics_q5": {
+      "question": "Can I get information about the languages spoken at the clinic?",
+      "answer": "The service languages specified in the clinic profile indicate that the clinic accepts foreign customers."
+    },
+    "dentists_q1": {
+      "question": "How can I choose my dentist?",
+      "answer": "After selecting the clinic that suits you, a list of available dentists will be displayed. You can choose the one whose specialty fits your treatment. If you wish, you can request an online consultation with the clinic and start a treatment process by meeting with the specialist dentists."
+    },
+    "dentists_q2": {
+      "question": "Can I trust the dentists listed on Diştedavim?",
+      "answer": "The clinics and dentists listed on distedavim.com are 100% reliable. These clinics and dentists have successfully completed the processes determined by distedavim.com and their registration procedures have been completed. Therefore, you can undergo your dental treatment with peace of mind."
+    },
+    "dentists_q3": {
+      "question": "How can I find the best dentist?",
+      "answer": "distedavim.com ranks not only clinics but also dentists. You can take a look at our Dentists page, use the filter options, and list the highest-rated dentists."
+    },
+    "treatments_q0": {
+      "question": "",
+      "answer": ""
+    },
+    "clinic_q0": {
+      "question": "",
+      "answer": ""
+    },
+    "dentist_q0": {
+      "question": "",
+      "answer": ""
+    },
+    "treatment_q0": {
+      "question": "",
+      "answer": ""
+    }
+  }
+}

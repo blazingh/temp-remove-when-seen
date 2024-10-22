@@ -1,0 +1,7 @@
+{
+  "clientLocation": {
+    "fail_text": "Failed to get your current location",
+    "enable_text": "Please manually enable location access from your browser",
+    "retry": "Try again"
+  }
+}

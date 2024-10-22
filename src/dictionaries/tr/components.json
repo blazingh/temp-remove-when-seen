@@ -1,0 +1,7 @@
+{
+  "clientLocation": {
+    "fail_text": "Konum bilgisi alınamadı",
+    "enable_text": "Lütfen tarayıcından konum bilgisine izin ver",
+    "retry": "Tekrar Dene"
+  }
+}

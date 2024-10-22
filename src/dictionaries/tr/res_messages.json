@@ -1,0 +1,91 @@
+{
+  "Success": {
+    "sms_sent": "SMS sent",
+    "loged_in": "Logged in",
+    "registered": "Registered"
+  },
+  "Errors": {
+    "invalid_phone_number": "Geçersiz telefon numarası!",
+    "invalid_phone_code": "Geçersiz telefon kodu!",
+    "invalid_email": "Geçersiz e-posta adresi!",
+    "invalid_appointment": "Geçersiz randevu işlemi lütfen tekrar deneyin!",
+    "failed_to_send_message": "Mesaj gönderilirken hata oluştu!",
+    "invalid_name": "Lütfen geçerli bir isim gir!",
+    "invalid_surname": "Lütfen geçerli bir soyad gir!",
+    "invalid_code": "Geçersiz kod",
+    "failed_to_login": "Giriş yapılamadı! Lütfen tekrar deneyin",
+    "invalid_name_surname": "Geçersiz ad soyad",
+    "failed_to_register": "Kayıt işlemi başarısız lütfen tekrar deneyin!",
+    "invalid_password": "Geçersiz şifre",
+    "must_accept_terms": "Şartları kabul etmelisin",
+    "phone_number": "Geçersiz telefon numarası",
+    "district_id": "Geçersiz ilçe",
+    "city_id": "Geçersiz şehir",
+    "authorized_name": "Geçersiz yetkili adı",
+    "submerchant_name": "Geçersiz alt bayi adı",
+    "accept_terms": "Şartları kabul etmelisin",
+    "invalid_identity_number": "Geçersiz kimlik numarası",
+    "invalid_birth_date": "Geçersiz doğum tarihi",
+    "invalid_gender": "Geçersiz cinsiyet",
+    "invalid_verification_code": "Geçersiz onay kodu! Lütfen tekrar deneyin",
+    "otp_expired": "Süre doldu! Lütfen yeni bir OTP isteyin.",
+    "invalid_captcha_token": "Invalid captcha token",
+    "invalid_captcha_must": "Invalid captcha must be checked"
+  },
+  "List_page": {
+    "filter": "Filtrele",
+    "show_maps": "Haritada Gör"
+  },
+  "QandA": {
+    "q_and_a_description": "Diş klinikleri ile ilgili sıkça sorulan soruları sizin için listeledik",
+    "q_and_a_title": "Sıkça Sorulan Sorular",
+    "clinics_q1": {
+      "question": "Klinik seçimini neye göre yapmalıyım?",
+      "answer": "Klinik seçimlerin, uzmanlık alanı, lokasyon, fiyatlandırma ve referanslara bağlı olarak değişebilir."
+    },
+    "clinics_q2": {
+      "question": "Hekim seçimini nasıl yapmalıyım?",
+      "answer": "Hekimin bağlı olduğu kliniğin uzmanlık alanları listede gözükmektedir. Eğer tedavi hakkında bilgi sahibi değilseniz, kliniğe gittikten sonra değişiklik yapabilirsiniz."
+    },
+    "clinics_q3": {
+      "question": "Diştedavim'de listenen bu diş klinikleri güvenilir mi?",
+      "answer": "Randevu alacağın tüm klinikler, Diştedavim tarafından onaylanmış kliniklerden oluşmaktadır. Bu nedenle gönül rahatlığıyla randevunu oluşturabilirsiniz."
+    },
+    "clinics_q4": {
+      "question": "Randevu aldıktan sonra iptal edebilir miyim?",
+      "answer": "Evet, randevunu dilediğiniz zaman iptal edebilirsiniz. Bunun için Profil, Randevularım adımlarını takip edebilirsiniz."
+    },
+    "clinics_q5": {
+      "question": "Kliniğin hizmet verdiği diller hakkında bilgi alabilir miyim?",
+      "answer": "Kliniğin profilinde belirtilen hizmet dilleri, bu kliniğin yabancı müşterileri kabul ettiğini gösterir."
+    },
+    "dentists_q1": {
+      "question": "Diş hekimimi nasıl seçebilirim?",
+      "answer": "Size uygun diş kliniğinizi seçtikten sonra, uygun hekimler listelenecektir. Bu diş hekimleri arasından uzmanlık alanı tedavinize uygun olanı seçebilirsiniz. Dilerseniz klinikle online görüşme talebinde bulunarak uzman hekimlerle görüşüp bir tedavi süreci başlatabilirsiniz."
+    },
+    "dentists_q2": {
+      "question": "Diştedavim'de listelenen diş hekimlerine güvenebilir miyim?",
+      "answer": "distedavim.com' da listelenen klinikler ve diş hekimlerimiz %100 güvenilir olup, bu klinikler ve diş hekimleri distedavim.com tarafından belirlenmiş süreçleri başarıyla tamamlamış ve kayıt işlemleri gerçekleştirilmiştir. Bu nedenle, gönül rahatlığı ile diş tedavinizi olabilirsiniz."
+    },
+    "dentists_q3": {
+      "question": "En iyi diş hekimini nasıl bulabilirim?",
+      "answer": "distedavim.com, sadece klinikleri değil, diş hekimlerini de sıralıyor. Diş Hekimleri sayfamıza göz atarak filtre seçeneklerini kullanabilir, en yüksek değerlendirmeli hekimleri listeleyebilirsiniz."
+    },
+    "treatments_q0": {
+      "question": "",
+      "answer": ""
+    },
+    "clinic_q0": {
+      "question": "",
+      "answer": ""
+    },
+    "dentist_q0": {
+      "question": "",
+      "answer": ""
+    },
+    "treatment_q0": {
+      "question": "",
+      "answer": ""
+    }
+  }
+}

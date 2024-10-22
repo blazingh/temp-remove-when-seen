@@ -1,0 +1,362 @@
+{
+  "homePage": {
+    "title": {
+      "en": "Home",
+      "tr": "Ana Sayfa"
+    },
+    "description": {
+      "en": "Home",
+      "tr": "Ana Sayfa"
+    }
+  },
+  "treatmentPage": {
+    "title": {
+      "en": "Treatment",
+      "tr": "Tedavi"
+    },
+    "description": {
+      "en": "Treatment",
+      "tr": "Tedavi"
+    }
+  },
+  "treatmentList": {
+    "title": {
+      "en": "Smile Guide",
+      "tr": "Gülüş Rehberi"
+    },
+    "description": {
+      "en": "Smile Guide",
+      "tr": "Gülüş Rehberi"
+    }
+  },
+  "dentistPage": {
+    "title": {
+      "en": "Dentist",
+      "tr": "Diş Hekim"
+    },
+    "description": {
+      "en": "Dentist",
+      "tr": "Diş Hekim"
+    }
+  },
+  "dentistList": {
+    "title": {
+      "en": "Dentists",
+      "tr": "Dişhekimleri"
+    },
+    "description": {
+      "en": "Dentists",
+      "tr": "için diştedavim üzerinden randevu alın"
+    }
+  },
+  "clinicPage": {
+    "title": {
+      "en": "Clinic",
+      "tr": "Klinik"
+    },
+    "description": {
+      "en": "Clinic",
+      "tr": "Klinik"
+    }
+  },
+  "clinicList": {
+    "title": {
+      "en": "Clinics",
+      "tr": "Klinikler"
+    },
+    "description": {
+      "en": "Clinics",
+      "tr": "Klinikler"
+    }
+  },
+  "clinicsMap": {
+    "title": {
+      "en": "Clinics",
+      "tr": "Klinikler"
+    },
+    "description": {
+      "en": "Clinics",
+      "tr": "Klinikler"
+    }
+  },
+  "blogsList": {
+    "title": {
+      "en": "Blogs",
+      "tr": "Bloglar"
+    },
+    "description": {
+      "en": "Blogs",
+      "tr": "Bloglar"
+    }
+  },
+  "blogsPage": {
+    "title": {
+      "en": "Blogs",
+      "tr": "Bloglar"
+    },
+    "description": {
+      "en": "Blogs",
+      "tr": "Bloglar"
+    }
+  },
+  "userHelp": {
+    "title": {
+      "en": "Account help",
+      "tr": "Hesabım"
+    },
+    "description": {
+      "en": "Account help",
+      "tr": "Hesabım"
+    }
+  },
+  "generalHelp": {
+    "title": {
+      "en": "Help",
+      "tr": "Yardım"
+    },
+    "description": {
+      "en": "Yardım",
+      "tr": "yardım"
+    }
+  },
+  "userPage": {
+    "title": {
+      "en": "Account",
+      "tr": "Hesabım"
+    },
+    "description": {
+      "en": "Account",
+      "tr": "Hesabım"
+    }
+  },
+  "userProfile": {
+    "title": {
+      "en": "Profile",
+      "tr": "Profil"
+    },
+    "description": {
+      "en": "Profile",
+      "tr": "Profil"
+    }
+  },
+  "userAppointments": {
+    "title": {
+      "en": "Appointments",
+      "tr": "Randevularım"
+    },
+    "description": {
+      "en": "Appointments",
+      "tr": "Randevularım"
+    }
+  },
+  "userFavourites": {
+    "title": {
+      "en": "Favorites",
+      "tr": "Favorilerim"
+    },
+    "description": {
+      "en": "Favorites",
+      "tr": "Favorilerim"
+    }
+  },
+  "myReviews": {
+    "title": {
+      "en": "My Reviews",
+      "tr": "Yorumlarım"
+    },
+    "description": {
+      "en": "My Reviews",
+      "tr": "Yorumlarım"
+    }
+  },
+  "myQuestions": {
+    "title": {
+      "en": "My Questions",
+      "tr": "Sorularım"
+    },
+    "description": {
+      "en": "My Questions",
+      "tr": "Sorularım"
+    }
+  },
+  "profileEdit": {
+    "title": {
+      "en": "Profile Info",
+      "tr": "Hesap Bilgilerim"
+    },
+    "description": {
+      "en": "Profile desc",
+      "tr": "Profil düzenle desc"
+    }
+  },
+  "profileNotes": {
+    "title": {
+      "en": "Notes",
+      "tr": "Notlarım"
+    },
+    "description": {
+      "en": "note Desc",
+      "tr": "Notlarım"
+    }
+  },
+  "profileFiles": {
+    "title": {
+      "en": "Files",
+      "tr": "Dosyalarım"
+    },
+    "description": {
+      "en": "Files Desc",
+      "tr": "Dosyalarım"
+    }
+  },
+  "loginPage": {
+    "title": {
+      "en": "Login",
+      "tr": "Giriş Yap"
+    },
+    "description": {
+      "en": "Login",
+      "tr": "Giriş Yap"
+    }
+  },
+  "registerPage": {
+    "title": {
+      "en": "Register",
+      "tr": "Kayıt Ol"
+    },
+    "description": {
+      "en": "Register",
+      "tr": "Kayıt Ol"
+    }
+  },
+  "forgotPasswordPage": {
+    "title": {
+      "en": "Forgot Password",
+      "tr": "Şifremi Unuttum"
+    },
+    "description": {
+      "en": "Forgot Password",
+      "tr": "Şifremi Unuttum"
+    }
+  },
+  "privacy": {
+    "title": {
+      "en": "Privacy",
+      "tr": "Gizlilik Politikası"
+    },
+    "description": {
+      "en": "Privacy",
+      "tr": "Gizlilik Politikası"
+    }
+  },
+  "policy": {
+    "title": {
+      "en": "Policy",
+      "tr": "politikamız"
+    },
+    "description": {
+      "en": "Policy",
+      "tr": "distedavim.com politikamızı inceleyin"
+    }
+  },
+  "contact": {
+    "title": {
+      "en": "Contact",
+      "tr": "İletişim"
+    },
+    "description": {
+      "en": "Contact",
+      "tr": "İletişim"
+    }
+  },
+  "about": {
+    "title": {
+      "en": "About",
+      "tr": "Hakkımızda"
+    },
+    "description": {
+      "en": "About desc",
+      "tr": "Hakkımızda desc"
+    }
+  },
+  "terms": {
+    "title": {
+      "en": "Terms",
+      "tr": "Kullanım Koşulları"
+    },
+    "description": {
+      "en": "Bu politikanın amacı Diş Tedavim için güvenlik amaçlarını ve BGYS taahhüdünü tanımlamaktadır.",
+      "tr": "The purpose of this policy is to define the security objectives and ISMS commitment for Diş Tedavim."
+    }
+  },
+  "faq": {
+    "title": {
+      "en": "Faq",
+      "tr": "Sıkça Sorulan Sorular"
+    },
+    "description": {
+      "en": "Faq desc",
+      "tr": "Faq desc"
+    }
+  },
+  "appointmentsVerify": {
+    "title": {
+      "en": "Enter your details for an appointment",
+      "tr": "Randevu için bilgilerini gir"
+    },
+    "description": {
+      "en": "",
+      "tr": ""
+    }
+  },
+  "appointmentsForm": {
+    "title": {
+      "en": "Confirm Your Appointment",
+      "tr": "Randevunu Onayla"
+    },
+    "description": {
+      "en": "",
+      "tr": ""
+    }
+  },
+  "appointmentsSuccess": {
+    "title": {
+      "en": "Appointment Confirmation",
+      "tr": "Randevu Onay"
+    },
+    "description": {
+      "en": "",
+      "tr": ""
+    }
+  },
+  "clinicRegister": {
+    "title": {
+      "en": "",
+      "tr": ""
+    },
+    "description": {
+      "en": "",
+      "tr": ""
+    }
+  },
+  "guidesPage": {
+    "title": {
+      "en": "Smile Guides",
+      "tr": "Gülüş Rehberi"
+    },
+    "description": {
+      "en": "",
+      "tr": ""
+    }
+  },
+  "guidePage": {
+    "title": {
+      "en": "Smile Guide",
+      "tr": "Gülüş Rehberi"
+    },
+    "description": {
+      "en": "",
+      "tr": ""
+    }
+  }
+}

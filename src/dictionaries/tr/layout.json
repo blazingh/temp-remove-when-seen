@@ -1,0 +1,113 @@
+{
+  "breadCrumb": {
+    "home": "Anasayfa"
+  },
+  "Header": {
+    "doctor_link": "Dişhekimi misin?"
+  },
+  "right_menu": {
+    "welcome": "Hoşgeldin",
+    "profile": "Profil",
+    "logout": "Çıkış Yap",
+    "login": "Giriş Yap",
+    "register": "Üye Ol",
+    "currency": "Para Birimi",
+    "language": "Dil",
+    "info": "Yardım",
+    "search_placeholder": "Klinik, Hekim, Tedavi Ara…",
+    "search_placeholder_result": "Aradığın kelimeye uygun sonuç bulunamadı",
+    "clinicRegisterRight": "Dişhekimi misin?",
+    "contact": "İletişim",
+    "distedavimAs": "diştedavim A.Ş.",
+    "distedavimAsReserved": "Tüm Hakları Saklıdır",
+    "kk1": "Kullanım Koşulları",
+    "kk2": "K.V.K.K Metni",
+    "kk3": "Politikamız",
+    "termscom2": "Tüm Yorumlar"
+  },
+  "bottom_menu": {
+    "home": "Anasayfa",
+    "favorite": "Favorilerim",
+    "appointment": "Randevularım",
+    "help": "Yardım",
+    "profile": "Profil"
+  },
+  "help_page2": {
+    "faq2": "Sık Sorulan Sorular",
+    "wp_sup": "Whatsapp Destek",
+    "call_center": "Çağrı Merkezi"
+  },
+  "clinicPage": {
+    "Labels": {
+      "select_city": "İl, İlçe Seç",
+      "select_treatment": "İhtiyacını Seç"
+    },
+    "Submit": "Klinikleri İncele",
+    "branch": "Branş",
+    "location": "Lokasyon",
+    "treatment": "Tedavi",
+    "select_treatment": "Tedavi Seç",
+    "choose_dentist": "Hekim Seç",
+    "get_appointment": "Ücretsiz Randevu Al",
+    "add_favorite": "Favoriye Ekle",
+    "share": "Paylaş",
+    "review": "değerlendirme",
+    "comments": "Hasta Değerlendirmeleri",
+    "more": "Tüm Değerlendirmeleri Gör",
+    "verifyDistedavim": "Ödemesini diştedavim ile yaptı.",
+    "payDistedavim": "Onaylı Değerlendirme",
+    "see_all": "Tümünü Gör",
+    "payment_methods": "Ödeme Yöntemleri",
+    "payment_methods_12": "diştedavim’le 12 aya kadar taksit",
+    "payment_methods_3": "Tüm kredi kartlarına vade farksız 3 ay taksit",
+    "payment_methods_cash": "Nakit ile ödeme",
+    "clinic_reg1": "Klinik Kayıt",
+    "clinic_reg2": "Siz de diştedavim ailesine katılın!",
+    "clinic_reg_input1": "Firma adı",
+    "clinic_reg_input2": "İl",
+    "clinic_reg_input3": "İlçe",
+    "clinic_reg_input4": "Yetkili Kişi",
+    "clinic_reg_input5": "E-posta",
+    "clinic_reg_input6": "Ülke Kodu",
+    "clinic_reg_input7": "Telefon No",
+    "clinic_reg_button": "Kayıt Ol",
+    "clinic_reg1_title": "Klinik Kayıt",
+    "clinic_reg2_title": "Klinik Girişi"
+  },
+  "treatmentPage": {
+    "average_price": "Ortalama Tedavi Fiyatı"
+  },
+  "footer": {
+    "call_center": "Çağrı Merkezi",
+    "whatsapp": "WhatsApp Destek",
+    "links": {
+      "policy": "Politikalarımız",
+      "title_1": "Diştedavim",
+      "title_2": "Kurumsal",
+      "gizlilik": "Gizlilik Politikası",
+      "kosullar": "Kullanım Koşulları",
+      "iletisim": "İletişim",
+      "klinikler": "Klinikler",
+      "dishekimleri": "Diş Hekimleri",
+      "acildis": "Acil Diş Klinikleri",
+      "enyakin": "En Yakın Diş Klinikleri",
+      "hakkimizda": "Hakkımızda",
+      "blog": "Bloglar",
+      "cerez": "Çerez Politikası",
+      "sss": "Sık Sorulan Sorular",
+      "tedaviler": "Tedaviler",
+      "onlinegorusme": "Online Görüşme",
+      "kliniktegorusme": "Klinikte Görüşme",
+      "disbeyazlatma": "Diş Beyazlatma",
+      "displaktemizlik": "Diş Plak Temizliği",
+      "kanaltedavisi": "Kanal Tedavisi",
+      "disklinikleri": "Diş Klinikleri",
+      "istanbuldis": "İstanbul Diş Klinikleri",
+      "ankaradis": "Ankara Diş Klinikleri",
+      "izmirdis": "İzmir Diş Klinikleri",
+      "bursadis": "Bursa Diş Klinikleri",
+      "antalyadis": "Antalya Diş Klinikleri"
+    },
+    "usbs_title": "distedavim, Sağlık"
+  }
+}

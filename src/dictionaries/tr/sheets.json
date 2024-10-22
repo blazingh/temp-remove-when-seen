@@ -1,0 +1,21 @@
+{
+  "undefined": {
+    "title": "sheets.undefined.title",
+    "subtitle": "sheets.undefined.subtitle"
+  },
+  "Login": {
+    "title": "Giriş Yap"
+  },
+  "Register": {
+    "title": "Üye Ol"
+  },
+  "locationFilter": {
+    "title": "Lokasyon Seç",
+    "cities": "Şehir",
+    "districts": "İlçe",
+    "submit": "Seç",
+    "or": "Ya da",
+    "mapView": "Harita",
+    "currentLocation": "Bulunduğum Konumu Kullan"
+  }
+}

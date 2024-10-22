@@ -1,0 +1,107 @@
+{
+  "home": {
+    "search_section": {
+      "title": "Find your dental clinic",
+      "desc": "Make an appointment with the most suitable one among hundreds of approved clinics and dentists!"
+    },
+    "dentist": {
+      "about_doctor": "Diş Hekimi Hakında"
+    },
+    "initial_section": {
+      "title": "Find the most suitable dental clinic",
+      "descup": "Review clinics and doctors, get examined,",
+      "descin": "split your treatment cost into up to 12 installments",
+      "dentist": "Dentist",
+      "transaction": "Approved Transaction"
+    },
+    "emergency_button": "Emergency Clinics",
+    "view_all_button": "See All",
+    "reviews_section": {
+      "title": "What did they say?",
+      "all": "Tüm Yorumlar"
+    },
+    "button_group": {
+      "clinics": "Clinics",
+      "doctors": "Hospitals",
+      "treatments": "Treatments",
+      "kids_clinics": "Kids Clinics",
+      "emergency_clinics": "Emergency Clinics"
+    },
+    "home_header_image": "/public/en.png",
+    "take_appointments": "Get a Free Appointment",
+    "closest_clinic": "Nearest Open Clinics",
+    "smile_guide": "Smile Guide",
+    "blogs": "Blogs",
+    "all_clinics": "All Clinics",
+    "all_kids_clinics": "All Kids Clinics",
+    "child_clinics": {
+      "title": "Pediatric Dental Clinics",
+      "text_upper": "See pediatric specialist clinics,",
+      "text": "create a free appointment immediately",
+      "button_text": "Nearest Kids Clinics"
+    },
+    "emergency_clinics": {
+      "title": "Emergency Dental Clinics",
+      "text_upper": "See 24/7 open dental clinics",
+      "text": "create your free appointments immediately",
+      "button_text": "Nearest Open Clinics"
+    },
+
+    "benefits_section": {
+      "title": "Add Clinic",
+      "title2": "Why distedavim.com?",
+      "benefits_list": {
+        "benefit_1": "Reach millions of new patients domestically and internationally",
+        "benefit_2": "Offer interest-free installment options on all bank cards to your patients",
+        "benefit_3": "Increase treatment acceptance rates",
+        "benefit_4": "Hundreds of Clinics on One Platform",
+        "benefit_5": "24/7 Easy Appointment Booking",
+        "benefit_6": "Free First Examination",
+        "benefit_7": "Up to 12 Months Installment Options"
+      },
+      "join_button": "Become a member clinic now"
+    },
+
+    "six_step_smile": {
+      "title": "Steps Smile Guide",
+      "guide_0": "Select Your City and Need",
+      "guide_1": "Review Clinics",
+      "guide_2": "Book Your Appointment",
+      "guide_3": "Free Consultation",
+      "guide_4": "Start Your Treatment",
+      "guide_5": "Installments Up to 12 Months"
+    }
+  },
+  "Profile": {
+    "appointments": "Appointments",
+    "favourites": "Favorites",
+    "reviews": "Comments",
+    "questions": "Q and A",
+    "about": "Profile Info",
+    "files": "Files",
+    "notes": "Notes"
+  },
+  "dentist": {
+    "about_doctor": "About Dentist"
+  },
+  "Profile_appointments": {
+    "future_appointments": "My Upcoming Appointments",
+    "past_appointments": "My Past Appointments"
+  },
+  "Profile_favourites": {
+    "clinics": "Clinicler",
+    "doctors": "Hospitals",
+    "treatments": "Treatments"
+  },
+  "Profile_edits": {
+    "ad": "Name",
+    "soyad": "Surname",
+    "telefon": "Phone Number",
+    "email": "Email",
+    "iden": "Citizenship Number",
+    "dogumgunu": "Birtday"
+  },
+  "Profile_reviews": {},
+  "Profile_questions": {},
+  "Profile_about": {}
+}

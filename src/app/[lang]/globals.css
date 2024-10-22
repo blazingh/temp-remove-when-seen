@@ -1,0 +1,314 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 13%;
+    --foreground-lighter: 0 0% 56%;
+
+    --card: 0, 0%, 98%, 1;
+    --card-foreground: 0 0% 13%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+
+    --primary: 262, 100%, 57%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 13%;
+
+    --success: 137, 100%, 97%;
+    --success-foreground: 137, 89%, 32%;
+
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+
+    --destructive: 0, 100%, 97%;
+    --destructive-foreground: 0, 100%, 40%;
+
+    --border: 0, 0%, 94%;
+    --border-darker: 0, 0%, 87%;
+    --input: 0 0% 96%;
+    --ring: 240 10% 3.9%;
+
+    --tw-exit-translate-y: 0;
+
+    --radius: 16px;
+    --radius-sm: 12px;
+    --radius-xs: 8px;
+  }
+
+  .variant-1 {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 13%;
+    --foreground-lighter: 0 0% 56%;
+
+    --card: 0, 0%, 98%, 1;
+    --card-foreground: 0 0% 13%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+
+    --primary: 236, 98%, 63%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 13%;
+
+    --success: 137, 100%, 97%;
+    --success-foreground: 137, 89%, 32%;
+
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+
+    --destructive: 0, 100%, 97%;
+    --destructive-foreground: 0, 100%, 40%;
+
+    --border: 0, 0%, 94%;
+    --border-darker: 0, 0%, 87%;
+    --input: 0 0% 96%;
+    --ring: 240 10% 3.9%;
+
+    --tw-exit-translate-y: 0;
+
+    --radius: 0.5rem;
+    --radius-sm: 0.375rem;
+    --radius-xs: 0.125rem;
+  }
+
+  .dark {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 240 4.9% 83.9%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border font-sans;
+  }
+  html {
+    font-family: var(--font-sans);
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  .error-paragraph {
+    @apply text-destructive-foreground bg-destructive py-2 px-4 rounded-sm text-sm;
+  }
+  .right-menu-item {
+    @apply border rounded-md flex items-center justify-between px-4 py-4;
+  }
+  .footer-title {
+    @apply text-[#000] text-xl font-semibold;
+  }
+  .footer-link {
+    @apply text-foreground text-[13px] font-medium;
+  }
+}
+#instagram-embed-0 {
+  margin: 0px !important;
+  border: 0px !important;
+  /* margin-top: 200px !important; */
+}
+#instagram-embed-1 {
+  margin: 0px !important;
+  border: 0px !important;
+  /* margin-top: 200px !important; */
+}
+.marker-pin {
+  width: 45px;
+  height: 45px;
+  border-radius: 50% 50% 50% 0;
+  background: #7626ff;
+  position: absolute;
+  transform: rotate(-45deg);
+  left: 50%;
+  top: 50%;
+  margin: -15px 0 0 -15px;
+}
+
+.marker-pin::after {
+  content: "";
+  width: 36px;
+  height: 36px;
+  margin: 4.5px 0 0 4.5px;
+  background: #fff;
+  position: absolute;
+  border-radius: 50%;
+}
+.cluster-markers {
+  position: absolute;
+  width: 45px;
+  font-size: 24px;
+  left: 0;
+  right: 0;
+  color: #7626ff;
+  margin: 5px auto;
+  text-align: center;
+  z-index: 9;
+}
+/* Stil dosyanızda animasyonları tanımlayın */
+.slide-in {
+  animation: slideIn 0.2s ease-in-out;
+}
+
+.slide-out {
+  animation: slideOut 0.2s ease-in-out;
+}
+
+.wp-support-main {
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  float: right;
+  background-color: #08a342;
+  color: #fff;
+  cursor: pointer;
+  -webkit-font-smoothing: antialiased;
+  border-radius: 30px 8px 30px 30px;
+  padding: 8px 12px;
+  transition: all 0.1s ease-out 0s;
+  animation: 0.1s ease 1s 1 normal none running openersupporticon;
+  position: relative;
+  font-size: 10px;
+  font-weight: 500;
+  box-shadow: rgba(0, 0, 0, 0.75) -1px 6px 13px -8px;
+}
+
+.wp-sp-text {
+  padding-left: 3px;
+  animation: 2s ease 0s 1 normal forwards running openersupport;
+  user-select: none;
+  font-size: 13px;
+  white-space: nowrap;
+  margin: 2px 2px 2px 5px;
+  overflow: hidden;
+}
+.wp-support-main i {
+  font-size: 17px;
+  font-weight: 300;
+}
+
+@keyframes openersupport {
+  0% {
+    max-width: 0px;
+  }
+  100% {
+    max-width: 120px;
+  }
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+table {
+  width: 100%;
+}
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.tg td {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg th {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg .tg-0lax {
+  text-align: left;
+  vertical-align: top;
+}
+
+.box-shadow2 {
+  box-shadow:
+    0px -3px 5px 0px rgba(0, 0, 0, 0.08),
+    0px -1px 1px 0px rgba(0, 0, 0, 0.08);
+}
+
+h3 {
+}
+/* .TreatmentCls {} */
+
+.treatmentCls h1 {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.treatmentCls h2,
+h4,
+h5,
+h6 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 1px;
+  margin-top: 15px;
+}
+
+.treatmentCls p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.treatmentCls a {
+  color: #7334e0;
+  font-weight: 500;
+}

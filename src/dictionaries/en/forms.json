@@ -1,0 +1,82 @@
+{
+  "appointmentOtp": {
+    "resend": "resend"
+  },
+  "Clinic_Filter": {
+    "Labels": {
+      "select_city": "Choose city and district",
+      "select_treatment": "Choose treatment"
+    },
+    "Submit": "Find Clinics"
+  },
+  "Login": {
+    "title": "Log in to your account",
+    "description": "You can log in to your account by phone or email.",
+    "login_with_phone": "Login with Phone",
+    "login_with_email": "Login with E-mail",
+    "create_account": "Register Now!",
+    "no_account": "Don't have an account?",
+    "forgot_password": "Remember me",
+    "Labels": {
+      "phone_number": "Phone",
+      "email": "E-mail",
+      "password": "Password",
+      "forgot_password": "Forgot your password?",
+      "stay_logged_in": "Stay logged in"
+    },
+    "submit": "Login"
+  },
+  "Renew_password": {
+    "title": "Reset Password",
+    "description": "Set a new password.",
+    "login_with_phone": "Login with Phone",
+    "login_with_email": "Login with E-mail",
+    "Labels": {
+      "phone_number": "Phone",
+      "email": "E-mail",
+      "password": "New Password"
+    },
+    "submit": "Submit"
+  },
+  "Otp_confirmation": {
+    "Labels": {
+      "sms_code": "SMS Code"    },
+    "Descriptions": {
+      "sms_code": "Complete your verification by entering the SMS code sent to your phone."
+    },
+    "submit": "Submit"
+  },
+  "Register": {
+    "title": "Register",
+    "description": "Enter your information to become a member.",
+    "has_account": "Do you have an account?",
+    "login": "Login",
+    "Labels": {
+      "phone_number": "Phone",
+      "name_surname": "Name Surname",
+      "email": "E-mail"
+    },
+    "submit": "Register"
+  },
+  "AppointmentConfirmation": {
+    "Labels": {
+      "phone_number": "Phone",
+      "first_name": "Name",
+      "last_name": "Surname",
+      "email": "E-mail",
+      "is_foreign" : "I am not a Turkish citizen."
+    },
+    "identify_no_info": "Randevuyu tamamlamak için Sağlık Bakanlığının kuralları gereği TC Kimlik Numaranı girmen gerekmekte.",
+    "submit": "Register"
+  },
+  "AppointmentSuccess": {
+  "congratulations": "Congratulations",
+  "appointment_created": "Your appointment has been created. Check your orders.",
+  "free_appointment": "Your appointment has been created.",
+  "free_appointment_description": "If you decide to proceed with treatment, you can spread your payment over up to 12 months.",
+  "online_or_in_person_appointment": "Online Appointment",
+  "in_person_appointment": "In-Person Appointment",
+  "directions": "Get Directions",
+  "share_text": "Book your dental appointment online:"
+}
+}

@@ -1,0 +1,83 @@
+{
+  "appointmentOtp": {
+    "resend": "Tekrar gönder"
+  },
+  "Clinic_Filter": {
+    "Labels": {
+      "select_city": "İl, İlçe Seç",
+      "select_treatment": "İhtiyacını Seç"
+    },
+    "Submit": "Klinikleri İncele"
+  },
+  "Login": {
+    "title": "Hesabına giriş yap",
+    "description": "Telefon ya da e-posta ile hesabına giriş yapabilirsin.",
+    "login_with_phone": "Telefon ile Giriş ",
+    "login_with_email": "E-posta ile Giriş",
+    "create_account": "Hemen Kaydol!",
+    "no_account": "Hesabın yok mu?",
+    "forgot_password": "Şifremi Unuttum?",
+    "Labels": {
+      "phone_number": "Telefon No",
+      "email": "E-posta",
+      "password": "Şifre",
+      "forgot_password": "Şifreni mi unuttun?",
+      "stay_logged_in": "Beni Hatırla"
+    },
+    "submit": "Giriş Yap"
+  },
+  "Renew_password": {
+    "title": "Şifre Yenile",
+    "description": "Yeni bir şifre belirleyin.",
+    "login_with_phone": "Telefon ile Giriş ",
+    "login_with_email": "E-posta ile Giriş",
+    "Labels": {
+      "phone_number": "Telefon No",
+      "email": "E-posta",
+      "password": "Yeni Şifre"
+    },
+    "submit": "Şifre Yenile"
+  },
+  "Otp_confirmation": {
+    "Labels": {
+      "sms_code": "SMS Kodu"
+    },
+    "Descriptions": {
+      "sms_code": "Telefonuna gelen SMS kodunu girerek doğrulamanı tamamla."
+    },
+    "submit": "Onayla"
+  },
+  "Register": {
+    "title": "Üye Ol",
+    "description": "Üye olmak için bilgilerini gir.",
+    "has_account": "Hesabın var mı?",
+    "login": "Giriş Yap",
+    "Labels": {
+      "phone_number": "Telefon No",
+      "name_surname": "Ad Soyad",
+      "email": "E-posta"
+    },
+    "submit": "Üye Ol"
+  },
+  "AppointmentConfirmation": {
+    "Labels": {
+      "phone_number": "Telefon No",
+      "first_name": "Ad",
+      "last_name": "Soyad",
+      "email": "E-posta",
+      "is_foreign" : "T.C Vatandaşı değilim."
+    },
+    "identify_no_info": "Randevuyu tamamlamak için Sağlık Bakanlığının kuralları gereği TC Kimlik Numaranı girmen gerekmekte.",
+    "submit": "Onayla"
+  },
+  "AppointmentSuccess": {
+    "congratulations": "Tebrikler",
+    "appointment_created": "Randevun oluşturuldu.",
+    "free_appointment": "Randevun Oluşturuldu.",
+    "free_appointment_description": "Tedavi yaptırmaya karar verirsen ödemeni 12 aya kadar taksitlendirebilirsin.",
+    "online_or_in_person_appointment" : "Online Muayene",
+    "in_person_appointment": "Klinikte Muayene",
+    "directions": "Yol Tarifi Al",
+    "share_text": "Sende diş randevunu online al:"
+  }
+}
